@@ -1,4 +1,4 @@
-# Virtueller Lernraum – Brennstoffe
+# Virtueller Lernraum – Brennstoffe startbild-lernraum.png
 
 GitHub-Pages-taugliche, rein statische Lernkontrolle für ca. 30–40 Minuten. Die Seite ist bewusst nüchtern gestaltet und enthält keine Lerntexte, sondern nur Aufgaben, Hinweise zur Arbeitsweise und Selbstkontrollen.
 
